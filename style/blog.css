@@ -1,8 +1,9 @@
 p{
     background-color: thistle;
     padding: 20px;
-    margin: 0;
+    margin: 10px;
 }
 h2{
     text-decoration:overline underline;
+    margin: 10px
 }
