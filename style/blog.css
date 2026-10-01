@@ -7,3 +7,9 @@ h2{
     text-decoration:overline underline;
     margin: 10px
 }
+li{
+    font-size: smaller;
+}
+h3{
+    text-decoration: underline black;
+}
